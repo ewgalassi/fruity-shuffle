@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import './App.css';
-import Cards from "./components/Cards"
+import Cards from "./components/Cards";
+import Counter from "./components/Counter";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="container">
         <header className="App-header">
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="title">Do the <strong>Fruity Shuffle</strong></h1>
+          <h4>Click on each fruit only once!  See if you can get them all</h4>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <Cards />
+        <Counter />
       </div>
     );
   }
