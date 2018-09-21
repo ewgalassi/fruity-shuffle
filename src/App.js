@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Cards from "./components/Cards";
 import Counter from "./components/Counter";
+import fruits from "./components/fruits.json";
 
 class App extends Component {
   render() {
