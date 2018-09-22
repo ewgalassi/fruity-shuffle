@@ -1,62 +1,62 @@
 [
     {
+        "id": "fruit1",
         "name": "apple",
-        "image": "./images/apple.jpg",
-        "clicked": false
+        "image": "./images/apple.jpg"
     },
     {
+        "id": "fruit2",
         "name": "avocado",
-        "image": "./images/avocado.png",
-        "clicked": false
+        "image": "./images/avocado.png"
     },
     {
+        "id": "fruit3",
         "name": "blueberry",
-        "image": "./images/blueberry.png",
-        "clicked": false
+        "image": "./images/blueberry.png"
     },
     {
+        "id": "fruit4",
         "name": "grapes",
-        "image": "./images/grapes.jpg",
-        "clicked": false
+        "image": "./images/grapes.jpg"
     },
     {
+        "id": "fruit5",
         "name": "lemon",
-        "image": "./images/lemon.jpg",
-        "clicked": false
+        "image": "./images/lemon.jpg"
     },
     {
+        "id": "fruit6",
         "name": "lime",
-        "image": "./images/lime.jpg",
-        "clicked": false
+        "image": "./images/lime.jpg"
     },
     {
+        "id": "fruit7",
         "name": "mango",
-        "image": "./images/mango.png",
-        "clicked": false
+        "image": "./images/mango.png"
     },
     {
+        "id": "fruit8",
         "name": "orange",
-        "image": "./images/orange.jpg",
-        "clicked": false
+        "image": "./images/orange.jpg"
     },
     {
+        "id": "fruit9",
         "name": "peach",
-        "image": "./images/peach.png",
-        "clicked": false
+        "image": "./images/peach.png"
     },
     {
+        "id": "fruit10",
         "name": "pear",
-        "image": "./images/pear.png",
-        "clicked": false
+        "image": "./images/pear.png"
     },
     {
+        "id": "fruit11",
         "name": "strawberry",
-        "image": "./images/strawberry.jpg",
-        "clicked": false
+        "image": "./images/strawberry.jpg"
     },
     {
+        "id": "fruit12",
         "name": "watermelon",
-        "image": "./images/watermelon.png",
-        "clicked": false
+        "image": "./images/watermelon.png"
     }
 ]

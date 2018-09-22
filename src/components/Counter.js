@@ -12,7 +12,7 @@ class Counter extends React.Component {
 
     render() {
         return (
-            <table className="counter">Lorem Ipsum and a bunch of yada yada yada</table>
+            <h4 className="counter">Lorem Ipsum and a bunch of yada yada yada</h4>
     );
     }
 }
